@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Internal;
+using System;
 
 namespace GitTraining
 {
@@ -7,6 +8,7 @@ namespace GitTraining
         static void Main(string[] args)
         {
             Console.WriteLine("Application Completed!");
+            Console.WriteLine("Adding User Authentication feature");
         }
     }
 }
