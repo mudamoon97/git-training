@@ -9,6 +9,7 @@ namespace GitTraining
         {
             Console.WriteLine("Application Completed!");
             Console.WriteLine("Adding User Authentication feature");
+            Console.WriteLine("Added Logout Functionality");
         }
     }
 }
